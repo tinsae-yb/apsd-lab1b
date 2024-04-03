@@ -1,0 +1,42 @@
+[
+  {
+    "employeeId": 1,
+    "planReferenceNumber": "EX1089",
+    "firstName": "Daniel",
+    "lastName": "Agar",
+    "yearlySalary": 105945.5,
+    "employmentDate": "2018-01-17",
+    "enrollmentDate": "2023-01-17",
+    "monthlyContribution": 100.0
+  },
+  {
+    "employeeId": 2,
+    "planReferenceNumber": null,
+    "firstName": "Benard",
+    "lastName": "Shaw",
+    "yearlySalary": 197750.0,
+    "employmentDate": "2019-04-03",
+    "enrollmentDate": null,
+    "monthlyContribution": null
+  },
+  {
+    "employeeId": 3,
+    "planReferenceNumber": "SM2307",
+    "firstName": "Carly",
+    "lastName": "Agar",
+    "yearlySalary": 842000.75,
+    "employmentDate": "2014-05-16",
+    "enrollmentDate": "2019-11-04",
+    "monthlyContribution": 1555.5
+  },
+  {
+    "employeeId": 4,
+    "planReferenceNumber": null,
+    "firstName": "Wesley",
+    "lastName": "Schneider",
+    "yearlySalary": 74500.0,
+    "employmentDate": "2019-05-02",
+    "enrollmentDate": null,
+    "monthlyContribution": null
+  }
+]
